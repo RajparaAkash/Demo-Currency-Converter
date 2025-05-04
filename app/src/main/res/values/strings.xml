@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical 1</string>
+
+    <string name="currency_converter">Currency Converter</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="ac">AC</string>
+
+</resources>
